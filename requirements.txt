@@ -1,8 +1,0 @@
-streamlit
-google.generativeai
-PyPDF2
-dotenv 
-json
-PIL
-base64
-os
